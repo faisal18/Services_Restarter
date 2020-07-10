@@ -11,6 +11,7 @@ namespace Services_Restarter
         static void Main(string[] args)
         {
             Restarter.Execute();
+
         }
     }
 }
